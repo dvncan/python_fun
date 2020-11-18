@@ -1,0 +1,29 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\duncanb\Documents\Python Udemy\.metadata\.plugins\org.eclipse.core.resources\.projects\basicprograms\com.python.pydev.analysis\v2_indexcache
+areaofacircle|1592142737553343000|C:\Users\duncanb\Documents\Python Udemy\basicprograms\areaofacircle.py
+averageofnumbers|1592138374867362000|C:\Users\duncanb\Documents\Python Udemy\basicprograms\averageofnumbers.py
+studentdetails|1592138225511497000|C:\Users\duncanb\Documents\Python Udemy\basicprograms\studentdetails.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+2=areaofacircle
+4=averageofnumbers
+5=C:\Users\duncanb\Documents\Python Udemy\basicprograms\studentdetails.py
+1=C:\Users\duncanb\Documents\Python Udemy\basicprograms\areaofacircle.py
+3=C:\Users\duncanb\Documents\Python Udemy\basicprograms\averageofnumbers.py
+6=studentdetails
+-- END DICTIONARY
+-- START TREE 1
+7
+are|1|area!1^5#1*19@
+ave|1|average!3^2#1*35@
+mar|1|marks!5^3#1*51@
+nam|1|name!5^2#1*51@
+pi|1|pi!1^4#1*19@
+r|1|r!1^3#1*19@
+stu|1|studentId!5^1#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

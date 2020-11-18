@@ -1,0 +1,22 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\duncanb\Documents\Python Udemy\.metadata\.plugins\org.eclipse.core.resources\.projects\operators\com.python.pydev.analysis\v2_indexcache
+logicaloperators|1592100780672731000|C:\Users\duncanb\Documents\Python Udemy\operators\logicaloperators.py
+asignmentoperators|1592100549962501000|C:\Users\duncanb\Documents\Python Udemy\operators\asignmentoperators.py
+comparisonoperators|1592100714285647000|C:\Users\duncanb\Documents\Python Udemy\operators\comparisonoperators.py
+arithmaticoperators|1592100400269965000|C:\Users\duncanb\Documents\Python Udemy\operators\arithmaticoperators.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=C:\Users\duncanb\Documents\Python Udemy\operators\asignmentoperators.py
+2=asignmentoperators
+-- END DICTIONARY
+-- START TREE 1
+3
+a|1|a!1^1#1*19@
+b|1|b!1^1#3*19@
+c|1|c!1^1#5*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

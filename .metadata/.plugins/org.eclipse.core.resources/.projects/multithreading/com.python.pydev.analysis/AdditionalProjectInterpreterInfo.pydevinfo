@@ -1,0 +1,69 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\duncanb\Documents\Python Udemy\.metadata\.plugins\org.eclipse.core.resources\.projects\multithreading\com.python.pydev.analysis\v2_indexcache
+usingFunction|1593998759850396000|C:\Users\duncanb\Documents\Python Udemy\multithreading\usingFunction.py
+threadcommunicationusingaflag|1602198215776207000|C:\Users\duncanb\Documents\Python Udemy\multithreading\threadcommunicationusingaflag.py
+usingclass|1594001216101137000|C:\Users\duncanb\Documents\Python Udemy\multithreading\usingclass.py
+threadcommunicationusingwait&notify|1602198525771956000|C:\Users\duncanb\Documents\Python Udemy\multithreading\threadcommunicationusingwait&notify.py
+usingsubclass|1594000930603132000|C:\Users\duncanb\Documents\Python Udemy\multithreading\usingsubclass.py
+bookmybus|1594001852168595000|C:\Users\duncanb\Documents\Python Udemy\multithreading\bookmybus.py
+multithreadingassignment|1602199403005708000|C:\Users\duncanb\Documents\Python Udemy\multithreading\multithreadingassignment.py
+mainthread|1593998463245948000|C:\Users\duncanb\Documents\Python Udemy\multithreading\mainthread.py
+-- END DISKCACHE
+-- START DICTIONARY
+24
+8=usingFunction
+22=Consumer.__init__
+20=MyThread
+19=Producer.__init__
+12=usingsubclass
+23=EvenNumbers
+10=multithreadingassignment
+15=BookMyBus
+24=OddNumbers
+3=C:\Users\duncanb\Documents\Python Udemy\multithreading\threadcommunicationusingaflag.py
+4=threadcommunicationusingaflag
+13=C:\Users\duncanb\Documents\Python Udemy\multithreading\usingclass.py
+14=usingclass
+16=Producer
+17=Consumer
+6=threadcommunicationusingwait&notify
+18=BookMyBus.__init__
+1=C:\Users\duncanb\Documents\Python Udemy\multithreading\bookmybus.py
+7=C:\Users\duncanb\Documents\Python Udemy\multithreading\usingFunction.py
+21=Producer.produce
+11=C:\Users\duncanb\Documents\Python Udemy\multithreading\usingsubclass.py
+2=bookmybus
+9=C:\Users\duncanb\Documents\Python Udemy\multithreading\multithreadingassignment.py
+5=C:\Users\duncanb\Documents\Python Udemy\multithreading\threadcommunicationusingwait&notify.py
+-- END DICTIONARY
+-- START TREE 1
+14
+boo|1|BookMyBus!1^3#7*17@
+c|2|c!3^32#1*35@c!5^34#1*51@
+con|2|Consumer!5^21#7*49@Consumer!3^18#7*33@
+dis|1|displayNumbers!7^3#5*66@
+eve|1|EvenNumbers!9^5#7*81@
+myt|2|MyThread!11^3#7*97@MyThread!13^4#7*113@
+obj|2|obj!1^22#1*19@obj!13^13#1*115@
+odd|1|OddNumbers!9^10#7*81@
+p|2|p!5^33#1*51@p!3^31#1*35@
+pro|2|Producer!5^4#7*49@Producer!3^4#7*33@
+t|3|t!13^14#1*115@t!7^12#1*67@t!11^10#1*99@
+t1|4|t1!5^36#1*51@t1!1^23#1*19@t1!9^15#1*83@t1!3^34#1*35@
+t2|5|t2!9^16#1*83@t2!1^24#1*19@t2!3^35#1*35@t2!5^37#1*51@t2!13^17#1*115@
+t3|2|t3!13^20#1*115@t3!1^25#1*19@
+-- END TREE
+-- START TREE 2
+10
+__i|5|__init__!15&1^5#9*18@__init__!16&5^5#9*50@__init__!17&5^22#9*50@__init__!16&3^5#9*34@__init__!17&3^19#9*34@
+ava|1|availableSeats!18&1^6#9*19@
+buy|1|buy!15&1^10#9*18@
+c|1|c!19&5^8#9*51@
+con|2|consume!17&5^25#9*50@consume!17&3^22#9*34@
+dis|1|displayNumbers!20&13^5#9*114@
+l|1|l!18&1^8#9*19@
+ord|2|ordersplaced!19&3^8#9*35@ordersplaced!21&3^16#9*35@
+pro|6|prod!22&5^23#9*51@prod!22&3^20#9*35@products!19&5^7#9*51@produce!16&5^10#9*50@products!19&3^7#9*35@produce!16&3^10#9*34@
+run|3|run!20&11^4#9*98@run!23&9^6#9*82@run!24&9^11#9*82@
+-- END TREE

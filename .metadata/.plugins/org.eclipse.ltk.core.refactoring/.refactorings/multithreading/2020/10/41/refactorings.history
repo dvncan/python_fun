@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;multithreading/multithreadingassignment&apos; to &apos;multithreadingassignment.py&apos;" description="Rename resource &apos;multithreadingassignment&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="multithreadingassignment" name="multithreadingassignment.py" stamp="1602198705525" updateReferences="true"/>
+</session>

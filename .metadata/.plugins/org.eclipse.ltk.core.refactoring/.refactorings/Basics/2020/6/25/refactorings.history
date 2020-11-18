@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Basics/bytesandarrays&apos; to &apos;bytesandarrays.py&apos;" description="Rename resource &apos;bytesandarrays&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="bytesandarrays" name="bytesandarrays.py" stamp="1592099604857" updateReferences="true"/>
+</session>

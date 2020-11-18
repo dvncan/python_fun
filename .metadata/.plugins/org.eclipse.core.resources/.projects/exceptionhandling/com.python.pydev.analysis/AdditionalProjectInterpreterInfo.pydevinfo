@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\duncanb\Documents\Python Udemy\.metadata\.plugins\org.eclipse.core.resources\.projects\exceptionhandling\com.python.pydev.analysis\v2_indexcache
+assertdemo|1592482983440384000|C:\Users\duncanb\Documents\Python Udemy\exceptionhandling\assertdemo.py
+loggingdemo|1592482779215797000|C:\Users\duncanb\Documents\Python Udemy\exceptionhandling\loggingdemo.py
+exceptionassignment|1592483754236096000|C:\Users\duncanb\Documents\Python Udemy\exceptionhandling\exceptionassignment.py
+demo|1592482776269958000|C:\Users\duncanb\Documents\Python Udemy\exceptionhandling\demo.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+4=assertdemo
+5=C:\Users\duncanb\Documents\Python Udemy\exceptionhandling\exceptionassignment.py
+1=C:\Users\duncanb\Documents\Python Udemy\exceptionhandling\demo.py
+6=exceptionassignment
+3=C:\Users\duncanb\Documents\Python Udemy\exceptionhandling\assertdemo.py
+2=demo
+-- END DICTIONARY
+-- START TREE 1
+4
+c|1|c!1^10#5*19@
+f|1|f!1^8#5*19@
+num|1|num!3^3#5*35@
+pwd|1|pwd!5^2#5*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,18 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\duncanb\Documents\Python Udemy\.metadata\.plugins\org.eclipse.core.resources\.projects\regex\com.python.pydev.analysis\v2_indexcache
+redemo|1592486287700646000|C:\Users\duncanb\Documents\Python Udemy\regex\redemo.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=C:\Users\duncanb\Documents\Python Udemy\regex\redemo.py
+2=redemo
+-- END DICTIONARY
+-- START TREE 1
+2
+res|1|result!1^7#1*19@
+str|2|str2!1^5#1*19@str!1^3#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

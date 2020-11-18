@@ -1,0 +1,35 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\duncanb\Documents\Python Udemy\.metadata\.plugins\org.eclipse.core.resources\.projects\encapsulation\com.python.pydev.analysis\v2_indexcache
+student|1592479193168154000|C:\Users\duncanb\Documents\Python Udemy\encapsulation\student.py
+patientass|1592479474958506000|C:\Users\duncanb\Documents\Python Udemy\encapsulation\patientass.py
+-- END DISKCACHE
+-- START DICTIONARY
+11
+9=Patient.setName
+10=Student.setName
+3=C:\Users\duncanb\Documents\Python Udemy\encapsulation\student.py
+4=student
+5=Patient
+6=Student
+7=Student.setId
+8=Patient.setId
+1=C:\Users\duncanb\Documents\Python Udemy\encapsulation\patientass.py
+11=Patient.setSsn
+2=patientass
+-- END DICTIONARY
+-- START TREE 1
+4
+p|1|p!1^22#1*19@
+pat|1|Patient!1^1#7*17@
+s|1|s!3^25#1*35@
+stu|1|Student!3^1#7*33@
+-- END TREE
+-- START TREE 2
+5
+get|5|getSsn!5&1^18#9*18@getName!5&1^15#9*18@getId!6&3^17#9*34@getId!5&1^12#9*18@getName!6&3^20#9*34@
+id|2|id!7&3^12#9*35@id!8&1^4#9*19@
+nam|2|name!9&1^7#9*19@name!10&3^15#9*35@
+set|5|setName!5&1^6#9*18@setId!5&1^3#9*18@setSsn!5&1^9#9*18@setId!6&3^11#9*34@setName!6&3^14#9*34@
+ssn|1|ssn!11&1^10#9*19@
+-- END TREE

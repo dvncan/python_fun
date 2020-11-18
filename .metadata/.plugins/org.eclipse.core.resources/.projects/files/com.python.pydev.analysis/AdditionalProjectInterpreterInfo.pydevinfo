@@ -1,0 +1,39 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\duncanb\Documents\Python Udemy\.metadata\.plugins\org.eclipse.core.resources\.projects\files\com.python.pydev.analysis\v2_indexcache
+pickledump|1592484760396112000|C:\Users\duncanb\Documents\Python Udemy\files\pickledump.py
+read|1592484537508856000|C:\Users\duncanb\Documents\Python Udemy\files\read.py
+student|1592484765787349000|C:\Users\duncanb\Documents\Python Udemy\files\student.py
+write|1592484196674830000|C:\Users\duncanb\Documents\Python Udemy\files\write.py
+pickleload|1592484920386302000|C:\Users\duncanb\Documents\Python Udemy\files\pickleload.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+2=pickledump
+8=read
+10=student
+1=C:\Users\duncanb\Documents\Python Udemy\files\pickledump.py
+7=C:\Users\duncanb\Documents\Python Udemy\files\read.py
+9=C:\Users\duncanb\Documents\Python Udemy\files\student.py
+12=Student
+3=C:\Users\duncanb\Documents\Python Udemy\files\write.py
+4=write
+5=C:\Users\duncanb\Documents\Python Udemy\files\pickleload.py
+11=Student.__init__
+6=pickleload
+-- END DICTIONARY
+-- START TREE 1
+4
+f|4|f!1^3#1*19@f!3^2#1*35@f!5^3#1*51@f!7^4#5*67@
+obj|1|obj!5^4#1*51@
+s|3|s!3^5#1*35@s!7^5#5*67@s!1^4#1*19@
+stu|1|Student!9^1#7*81@
+-- END TREE
+-- START TREE 2
+5
+Id|1|Id!11&9^3#9*83@
+__i|1|__init__!12&9^2#9*82@
+dis|1|display!12&9^7#9*82@
+nam|1|name!11&9^4#9*83@
+tes|1|testscore!11&9^5#9*83@
+-- END TREE

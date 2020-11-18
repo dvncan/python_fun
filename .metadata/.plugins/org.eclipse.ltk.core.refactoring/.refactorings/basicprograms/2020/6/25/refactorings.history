@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;basicprograms/averageofnumbers&apos; to &apos;averageofnumbers.py&apos;" description="Rename resource &apos;averageofnumbers&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="averageofnumbers" name="averageofnumbers.py" stamp="1592138274717" updateReferences="true"/>
+</session>
