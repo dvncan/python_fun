@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;multithreading/usingsubclass&apos; to &apos;usingsubclass.py&apos;" description="Rename resource &apos;usingsubclass&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="usingsubclass" name="usingsubclass.py" stamp="1594000831213" updateReferences="true"/>
+</session>

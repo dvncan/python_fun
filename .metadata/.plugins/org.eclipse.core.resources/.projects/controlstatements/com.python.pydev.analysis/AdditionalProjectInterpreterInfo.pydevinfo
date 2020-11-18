@@ -1,0 +1,57 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\duncanb\Documents\Python Udemy\.metadata\.plugins\org.eclipse.core.resources\.projects\controlstatements\com.python.pydev.analysis\v2_indexcache
+oddnumbers|1592178523749153000|C:\Users\duncanb\Documents\Python Udemy\controlstatements\oddnumbers.py
+continuedemo|1592179642076852000|C:\Users\duncanb\Documents\Python Udemy\controlstatements\continuedemo.py
+assignment4|1592180606799569000|C:\Users\duncanb\Documents\Python Udemy\controlstatements\assignment4.py
+forloop|1592178744957577000|C:\Users\duncanb\Documents\Python Udemy\controlstatements\forloop.py
+breakdemo|1592179157179948000|C:\Users\duncanb\Documents\Python Udemy\controlstatements\breakdemo.py
+evenorodd|1592144063130205000|C:\Users\duncanb\Documents\Python Udemy\controlstatements\evenorodd.py
+productoflist|1592178888778443000|C:\Users\duncanb\Documents\Python Udemy\controlstatements\productoflist.py
+whiledemo|1592178476628618000|C:\Users\duncanb\Documents\Python Udemy\controlstatements\whiledemo.py
+assert|1592180274381037000|C:\Users\duncanb\Documents\Python Udemy\controlstatements\assert.py
+multiplicationtable|1592179068743602000|C:\Users\duncanb\Documents\Python Udemy\controlstatements\multiplicationtable.py
+assignmnet3|1592180357054140000|C:\Users\duncanb\Documents\Python Udemy\controlstatements\assignmnet3.py
+elifassignment|1592178232426692000|C:\Users\duncanb\Documents\Python Udemy\controlstatements\elifassignment.py
+-- END DISKCACHE
+-- START DICTIONARY
+22
+21=C:\Users\duncanb\Documents\Python Udemy\controlstatements\assignmnet3.py
+6=assignment4
+10=breakdemo
+5=C:\Users\duncanb\Documents\Python Udemy\controlstatements\assignment4.py
+11=C:\Users\duncanb\Documents\Python Udemy\controlstatements\multiplicationtable.py
+12=multiplicationtable
+17=C:\Users\duncanb\Documents\Python Udemy\controlstatements\assert.py
+1=C:\Users\duncanb\Documents\Python Udemy\controlstatements\elifassignment.py
+3=C:\Users\duncanb\Documents\Python Udemy\controlstatements\oddnumbers.py
+4=oddnumbers
+19=C:\Users\duncanb\Documents\Python Udemy\controlstatements\evenorodd.py
+16=continuedemo
+8=productoflist
+20=evenorodd
+14=whiledemo
+18=assert
+15=C:\Users\duncanb\Documents\Python Udemy\controlstatements\continuedemo.py
+22=assignmnet3
+7=C:\Users\duncanb\Documents\Python Udemy\controlstatements\productoflist.py
+9=C:\Users\duncanb\Documents\Python Udemy\controlstatements\breakdemo.py
+2=elifassignment
+13=C:\Users\duncanb\Documents\Python Udemy\controlstatements\whiledemo.py
+-- END DICTIONARY
+-- START TREE 1
+10
+avg|1|avg!1^11#5*19@
+c|1|c!1^7#1*19@
+i|2|i!3^4#1*35@i!5^3#1*51@
+lst|2|lst!7^1#1*67@lst!9^1#1*83@
+m|1|m!1^5#1*19@
+p|1|p!1^6#1*19@
+pri|1|primeFlag!5^1#1*51@
+pro|1|prod!7^2#1*67@
+x|8|x!11^1#1*99@x!13^1#1*115@x!5^2#1*51@x!15^1#1*131@x!17^1#1*147@x!3^1#1*35@x!19^1#1*163@x!21^1#1*179@
+y|1|y!3^2#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

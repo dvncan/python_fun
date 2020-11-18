@@ -1,0 +1,44 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\duncanb\Documents\Python Udemy\.metadata\.plugins\org.eclipse.core.resources\.projects\Networking\com.python.pydev.analysis\v2_indexcache
+tcpipclient|1602200858945401000|C:\Users\duncanb\Documents\Python Udemy\Networking\tcpipclient.py
+urllibdemo|1602199877299784000|C:\Users\duncanb\Documents\Python Udemy\Networking\urllibdemo.py
+fileserver|1602201771398277000|C:\Users\duncanb\Documents\Python Udemy\Networking\fileserver.py
+tcpipserver|1602200785473674000|C:\Users\duncanb\Documents\Python Udemy\Networking\tcpipserver.py
+emailclient|1602202918163118000|C:\Users\duncanb\Documents\Python Udemy\Networking\emailclient.py
+downloadimage|1602199998054124000|C:\Users\duncanb\Documents\Python Udemy\Networking\downloadimage.py
+fileclient|1604978476219563000|C:\Users\duncanb\Documents\Python Udemy\Networking\fileclient.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+9=C:\Users\duncanb\Documents\Python Udemy\Networking\tcpipserver.py
+10=tcpipserver
+5=C:\Users\duncanb\Documents\Python Udemy\Networking\urllibdemo.py
+13=C:\Users\duncanb\Documents\Python Udemy\Networking\downloadimage.py
+11=C:\Users\duncanb\Documents\Python Udemy\Networking\tcpipclient.py
+6=urllibdemo
+12=tcpipclient
+8=fileserver
+2=emailclient
+3=C:\Users\duncanb\Documents\Python Udemy\Networking\fileclient.py
+4=fileclient
+14=downloadimage
+1=C:\Users\duncanb\Documents\Python Udemy\Networking\emailclient.py
+7=C:\Users\duncanb\Documents\Python Udemy\Networking\fileserver.py
+-- END DICTIONARY
+-- START TREE 1
+10
+bod|1|body!1^4#1*19@
+con|3|content!3^12#1*35@content!5^5#5*51@content!7^18#5*67@
+f|2|f!5^11#1*51@f!7^17#5*67@
+fil|2|fileName!7^14#1*67@fileName!3^8#1*35@
+hos|2|host!7^3#1*67@host!9^3#1*83@
+msg|2|msg!11^7#1*99@msg!1^6#1*19@
+por|2|port!7^4#1*67@port!9^4#1*83@
+s|4|s!7^6#1*67@s!3^4#1*35@s!9^6#1*83@s!11^3#1*99@
+ser|1|server!1^11#1*19@
+url|2|url!5^4#5*51@url!13^3#1*115@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

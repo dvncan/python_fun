@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;dateandtime/combinedateandtime&apos; to &apos;combinedateandtime.py&apos;" description="Rename resource &apos;combinedateandtime&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="combinedateandtime" name="combinedateandtime.py" stamp="1592486694902" updateReferences="true"/>
+</session>

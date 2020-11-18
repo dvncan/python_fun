@@ -1,0 +1,75 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\duncanb\Documents\Python Udemy\.metadata\.plugins\org.eclipse.core.resources\.projects\functions\com.python.pydev.analysis\v2_indexcache
+average|1592234245201779000|C:\Users\duncanb\Documents\Python Udemy\functions\average.py
+evenoroddfilter|1592268210021937000|C:\Users\duncanb\Documents\Python Udemy\functions\evenoroddfilter.py
+doubleusingmap|1592268357906960000|C:\Users\duncanb\Documents\Python Udemy\functions\doubleusingmap.py
+doubledecor|1592268973887416000|C:\Users\duncanb\Documents\Python Udemy\functions\doubledecor.py
+greeting|1592189315904526000|C:\Users\duncanb\Documents\Python Udemy\functions\greeting.py
+factorial|1592229536578513000|C:\Users\duncanb\Documents\Python Udemy\functions\factorial.py
+funasaparameter|1592229148209625000|C:\Users\duncanb\Documents\Python Udemy\functions\funasaparameter.py
+returnfunction|1592229240433813000|C:\Users\duncanb\Documents\Python Udemy\functions\returnfunction.py
+evenoroddlambda|1592268060165860000|C:\Users\duncanb\Documents\Python Udemy\functions\evenoroddlambda.py
+localandglobal|1592187513554618000|C:\Users\duncanb\Documents\Python Udemy\functions\localandglobal.py
+sumlambda|1592268069443434000|C:\Users\duncanb\Documents\Python Udemy\functions\sumlambda.py
+cubelambda|1592234561188563000|C:\Users\duncanb\Documents\Python Udemy\functions\cubelambda.py
+listfun|1592229532723405000|C:\Users\duncanb\Documents\Python Udemy\functions\listfun.py
+sumusingreduce|1592268763169764000|C:\Users\duncanb\Documents\Python Udemy\functions\sumusingreduce.py
+calc|1592187277303096000|C:\Users\duncanb\Documents\Python Udemy\functions\calc.py
+-- END DISKCACHE
+-- START DICTIONARY
+30
+7=C:\Users\duncanb\Documents\Python Udemy\functions\greeting.py
+2=average
+26=evenoroddfilter
+30=doubleusingmap
+3=C:\Users\duncanb\Documents\Python Udemy\functions\calc.py
+8=greeting
+20=factorial
+11=C:\Users\duncanb\Documents\Python Udemy\functions\localandglobal.py
+16=evenoroddlambda
+15=C:\Users\duncanb\Documents\Python Udemy\functions\evenoroddlambda.py
+12=localandglobal
+24=sumlambda
+9=C:\Users\duncanb\Documents\Python Udemy\functions\returnfunction.py
+29=C:\Users\duncanb\Documents\Python Udemy\functions\doubleusingmap.py
+19=C:\Users\duncanb\Documents\Python Udemy\functions\factorial.py
+28=sumusingreduce
+25=C:\Users\duncanb\Documents\Python Udemy\functions\evenoroddfilter.py
+17=C:\Users\duncanb\Documents\Python Udemy\functions\cubelambda.py
+6=doubledecor
+23=C:\Users\duncanb\Documents\Python Udemy\functions\sumlambda.py
+5=C:\Users\duncanb\Documents\Python Udemy\functions\doubledecor.py
+10=returnfunction
+14=funasaparameter
+1=C:\Users\duncanb\Documents\Python Udemy\functions\average.py
+21=C:\Users\duncanb\Documents\Python Udemy\functions\listfun.py
+18=cubelambda
+13=C:\Users\duncanb\Documents\Python Udemy\functions\funasaparameter.py
+22=listfun
+27=C:\Users\duncanb\Documents\Python Udemy\functions\sumusingreduce.py
+4=calc
+-- END DICTIONARY
+-- START TREE 1
+17
+add|0|
+ave|1|average!1^1#5*18@
+cal|1|calc!3^1#5*34@
+cub|0|
+dec|1|decor!5^1#5*50@
+dis|4|display!7^1#5*66@display!9^1#5*82@display!11^3#5*98@display!13^1#5*114@
+f|2|f!15^1#1*131@f!17^6#1*147@
+fac|1|factorial!19^1#5*162@
+fun|2|fun!21^1#5*178@fun!9^6#1*83@
+l|2|l!23^5#1*195@l!25^3#1*211@
+lst|3|lst!25^1#1*211@lst!27^3#1*227@lst!29^1#1*243@
+map|0|
+nam|1|name!13^4#5*114@
+num|1|num!5^8#5*50@
+res|4|result!29^2#1*243@result!3^8#1*35@result!1^7#1*19@result!27^5#1*227@
+x|1|x!11^1#1*99@
+z|1|z!11^9#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

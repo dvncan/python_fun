@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;exceptionhandling/exceptionassignment&apos; to &apos;exceptionassignment.py&apos;" description="Rename resource &apos;exceptionassignment&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="exceptionassignment" name="exceptionassignment.py" stamp="1592483056724" updateReferences="true"/>
+</session>
